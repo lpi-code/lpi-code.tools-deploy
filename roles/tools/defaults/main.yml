@@ -1,0 +1,5 @@
+---
+# defaults file for tools
+tools_packages:
+  - zsh
+  

@@ -1,0 +1,10 @@
+namespace: "lpi_code"
+name: "tools_deploy"
+version: "0.1.0"
+readme: "README.md"
+authors:
+    - "Loïc Piernas <loic.pro@piernas.fr>"
+license:
+    - "GPL-3.0-only"
+description: "This collection of tools is designed to deploy a set of linux tools on a target machine and setup shell environment for the user."
+repository: "https://www.github.com/lpi-code/lpi-code.tools_deploy"
