@@ -45,7 +45,7 @@
 			"ppa": "false"
 		},
 		//"ghcr.io/devcontainers/features/docker-in-docker": {},
-		"ghcr.io/hspaans/devcontainer-features/ansible-lint:1": {}
+		"ghcr.io/hspaans/devcontainer-features/ansible-lint:2": {}
 		// Install better jinja
 	},
 	
